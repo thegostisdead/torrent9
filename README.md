@@ -8,8 +8,12 @@ install the requirements
 And now start the bootstrap.py 
 ``` python bootstrap.py ```
 ### Basic commands
-``` help``` for list all the commands 
-
+``` help``` to list all the commands 
+``` search ``` to make a search on website
+```dl ``` to download the id who want be downloaded 
+# Command exemple :
+to search somthing : ```search "one piece" -limit 20 -stack 100```
+to download : ```downloadlist 99,100,98,72-75``` 
 #### Authors
 
 * **Caceres Enzo** - [Caceresenzo](https://github.com/Caceresenzo)
