@@ -4,4 +4,12 @@ Python Version : python 3
 
 ## Setup 
 install the requirements 
-"" pip install cmd2 ""
+```pip install cmd2```
+And now start the bootstrap.py 
+``` python bootstrap.py ```
+### Basic commands
+``` help``` for list all the commands 
+
+#### Authors
+
+* **Caceres Enzo** - [Caceresenzo](https://github.com/Caceresenzo)
