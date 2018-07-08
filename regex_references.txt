@@ -1,0 +1,38 @@
+
+--------------------------------------------------------
+get all page item: https://regex101.com/r/SKLMdd/4
+--------------------------------------------------------
+\<tr\>[ \t\n]*\<td\>\<i\sclass=\"fa\sfa-(.*?)\"\sstyle=\".*?\"\>\<\/i\>[ \t\n]*\<a title=\".*?\"\shref=\"(.*?)\".*?\>(.*?)\<\/a\>\<\/td\>[ \t\n]*\<td\sstyle=\".*?\">(.*?)\<\/td\>[ \t\n]*\<td\sstyle=\".*?\"\>\<span\sclass=\"seed_ok\">(.*?)\<img.*?\>\<\/span\>\<\/td\>[ \t\n]\<td\sstyle=\".*?\"\>(.*?)\<img.*?\>\<\/td\>[ \t\n]*\<\/tr\>
+--------------------------------------------------------
+[html page]
+--------------------------------------------------------
+
+--------------------------------------------------------
+get page container: https://regex101.com/r/xNDgoB/1/
+--------------------------------------------------------
+\<ul\sclass=\"pagination\"\>(.*?)\<\/ul\>
+--------------------------------------------------------
+<ul class="pagination">
+[...]
+</ul>
+--------------------------------------------------------
+
+--------------------------------------------------------
+get max page: https://regex101.com/r/fttiXL/1/
+--------------------------------------------------------
+\<li\>\<a.*?\>([\d]+)\<\/a\>\<\/li\>
+--------------------------------------------------------
+
+<li class="active"><a>1</a></li>
+<li><a href="/torrents_series.html,page-1">2</a></li>
+<li><a href="/torrents_series.html,page-2">3</a></li>
+<li><a href="/torrents_series.html,page-3">4</a></li>
+<li><a href="/torrents_series.html,page-4">5</a></li>
+<li><a href="/torrents_series.html,page-5">6</a></li>
+<li><a href="/torrents_series.html,page-6">7</a></li>
+<li><a href="/torrents_series.html,page-7">8</a></li>
+<li><a href="/torrents_series.html,page-8">9</a></li>
+<li><a href="/torrents_series.html,page-9">10</a></li>
+<li><a href="/torrents_series.html,page-609">610</a></li>
+<li><a href="/torrents_series.html,page-1"><strong>Suiv</strong></a></li>
+--------------------------------------------------------
