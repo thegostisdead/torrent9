@@ -14,6 +14,7 @@ And now start the bootstrap.py
 # Command exemple :
 to search somthing : ```search "one piece" -limit 20 -stack 100```
 to download : ```downloadlist 99,100,98,72-75``` 
+[Imgur](https://i.imgur.com/QlonnW8.gifv)
 #### Authors
 
 * **Caceres Enzo** - [Caceresenzo](https://github.com/Caceresenzo)
