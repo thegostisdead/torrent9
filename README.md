@@ -14,6 +14,15 @@ And now start the bootstrap.py
 # Command exemple :
 to search somthing : ```search "one piece" -limit 20 -stack 100```
 to download : ```downloadlist 99,100,98,72-75``` 
+###### Searching:
+```t9explore $> search "the flash"```
+```t9explore $> search "arrow" -limit 28 -stack 100```
+```t9explore $> search "blindspot" -cut 150 -limit 30```
+###### Downloading:
+```t9explore $> downloadlist 12``` 
+```t9explore $> downloadlist 48-52``` 
+```t9explore $> downloadlist 99,100,98,72-75``` 
+
   
 ![ezgif com-optimize](https://user-images.githubusercontent.com/25646890/42424341-1390d752-830b-11e8-9f81-e4e129fddbc0.gif)
 #### Authors
