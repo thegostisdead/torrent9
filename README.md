@@ -6,10 +6,10 @@ You can search everything, series, movies, musics, ebooks, pc-games, etc...
 
 ## Setup && Requierments
 * Python 3.3 and up needed  
-install the requirements 
-```pip install cmd2```
-And now start the bootstrap.py 
-``` python bootstrap.py ```
+install the requirements   
+```$ pip install cmd2```
+And now start the bootstrap.py into shell 
+```$ python bootstrap.py ```
 ### Basic commands
 ``` help``` to list all the commands  
 ``` search ``` to make a search on website  
