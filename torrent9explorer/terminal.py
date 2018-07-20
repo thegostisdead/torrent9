@@ -34,7 +34,7 @@ class Terminal(Cmd):
         searcher = Searcher(query=query, limit=limit)
         Explorer.get().executeSearch(searcher.prepare().getUrls(), stack, cut)
 
-    def do_dl(self, line):
+    def do_downloadlist(self, line):
         from torrent9explorer import PageAnalyzer
         ''' int,int,range-range '''
 
