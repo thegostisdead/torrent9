@@ -8,7 +8,7 @@ You can search everything, series, movies, musics, ebooks, pc-games, etc...
 
 ## Setup && Requierments
 * Python 3.3 and up needed  
-install the requirements   
+Install the requirements   
 ```$ pip install cmd2```
 And now start the bootstrap.py into shell 
 ```$ python bootstrap.py ```
@@ -36,10 +36,10 @@ t9explore $> downloadlist 12
 t9explore $> downloadlist 48-52  
 t9explore $> downloadlist 99,100,98,72-75
 ```   
-|            command prefix           |                     id                    |            Description            |
+|            Command Prefix           |                     Id                    |            Description            |
 |:-----------------------------------:|:-----------------------------------------:|:---------------------------------:|
 |             downloadlist            |                84,65,33-64                | SingleItem,SingleItem,Range-Items |
-| Command to download .torrent files  | ids printed in the cell after the search  | For the range : StartItem-endItem |
+| Command to download .torrent files  | Ids printed in the cell after the search  | For the range : StartItem-endItem |
   
 ![ezgif com-optimize](https://user-images.githubusercontent.com/25646890/42424341-1390d752-830b-11e8-9f81-e4e129fddbc0.gif)
 #### Authors
