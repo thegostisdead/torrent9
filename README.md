@@ -17,8 +17,8 @@ And now start the bootstrap.py into shell
 ``` search ``` to make a search on website  
 ```downloadlist ``` to download the id who want be downloaded  
 # Command exemple :
-to search somthing : ```search "one piece" -limit 20 -stack 100```
-to download : ```downloadlist 99,100,98,72-75``` 
+To search somthing : ```search "one piece" -limit 20 -stack 100```
+To download : ```downloadlist 99,100,98,72-75``` 
 ###### Searching:  
 ```python  
 t9explore $> search "the flash"  
@@ -39,7 +39,7 @@ t9explore $> downloadlist 99,100,98,72-75
 |            command prefix           |                     id                    |            Description            |
 |:-----------------------------------:|:-----------------------------------------:|:---------------------------------:|
 |             downloadlist            |                84,65,33-64                | SingleItem,SingleItem,Range-Items |
-| command to download .torrent files  | ids printed in the cell after the search  | For the range : StartItem-endItem |
+| Command to download .torrent files  | ids printed in the cell after the search  | For the range : StartItem-endItem |
   
 ![ezgif com-optimize](https://user-images.githubusercontent.com/25646890/42424341-1390d752-830b-11e8-9f81-e4e129fddbc0.gif)
 #### Authors
