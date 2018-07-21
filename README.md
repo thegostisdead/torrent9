@@ -1,4 +1,6 @@
-# torrent9 explorer ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+# torrent9 explorer 
+
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 This python script makes it possible to make researches on the website of torrents, "torrent9" and then the downloaded ones. 
 You can search everything, series, movies, musics, ebooks, pc-games, etc... 
